@@ -1,0 +1,102 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="row g-4">
+    <div class="col-md-5">
+        <div class="card bg-white shadow-sm border-0 rounded-4 h-100 p-4">
+            <h6 class="fw-bold text-danger mb-4">UNIVERSAL AI PREDICTOR</h6>
+            
+            {% if error_message %}
+            <div class="alert alert-danger small fw-bold mb-3 py-2">
+                <i class="bi bi-exclamation-triangle-fill me-1"></i> {{ error_message }}
+            </div>
+            {% endif %}
+
+            <form method="POST" id="predictForm">
+                {% csrf_token %}
+                
+                <label class="fw-bold small text-secondary mb-2">Search Any Bengaluru Location</label>
+                <div class="input-group mb-3">
+                    <input type="text" id="addressInput" class="form-control bg-dark text-white border-secondary" placeholder="e.g. Hennur Cross...">
+                    <button type="button" class="btn btn-outline-secondary" onclick="fetchCoordinates()">Find</button>
+                </div>
+
+                <div id="searchStatus" class="small text-success mb-3 fw-bold"></div>
+
+                <input type="hidden" name="latitude" id="latInput" required>
+                <input type="hidden" name="longitude" id="lngInput" required>
+
+                <label class="fw-bold small text-secondary mb-2">Time of Day</label>
+                <input type="time" name="time" class="form-control bg-dark text-white border-secondary mb-4" required>
+
+                <button type="submit" class="btn btn-danger w-100 fw-bold py-2" id="submitBtn" disabled>
+                    <i class="bi bi-cpu"></i> Execute AI Prediction
+                </button>
+            </form>
+        </div>
+    </div>
+
+    {% if prediction %}
+    <div class="col-md-7">
+        <div class="card bg-success text-white border-0 rounded-4 h-100 p-5 d-flex justify-content-center">
+            <h6 class="fw-bold opacity-75 mb-2">PREDICTION COMPLETE</h6>
+            <h2 class="display-6 fw-bold">{{ prediction }}</h2>
+        </div>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    async function fetchCoordinates() {
+        const address = document.getElementById('addressInput').value.trim();
+        const statusText = document.getElementById('searchStatus');
+        const submitBtn = document.getElementById('submitBtn');
+
+        if (!address) return;
+
+        statusText.innerHTML = "📡 Contacting OpenStreetMap...";
+        statusText.className = "small text-warning mb-3 fw-bold";
+        
+        try {
+            const query = encodeURIComponent(address + ", Bengaluru, India");
+            const response = await fetch(`https://nominatim.openstreetmap.org/search?format=json&q=${query}&limit=1`);
+            const data = await response.json();
+
+            if (data.length > 0) {
+                document.getElementById('latInput').value = data[0].lat;
+                document.getElementById('lngInput').value = data[0].lon;
+                
+                statusText.innerHTML = `✅ Location Locked: ${data[0].lat.substring(0,6)}, ${data[0].lon.substring(0,6)}`;
+                statusText.className = "small text-success mb-3 fw-bold";
+                
+                submitBtn.disabled = false;
+            } else {
+                statusText.innerHTML = "❌ Address not found. Try again.";
+                statusText.className = "small text-danger mb-3 fw-bold";
+                submitBtn.disabled = true;
+            }
+        } catch (error) {
+            statusText.innerHTML = "❌ Network Error.";
+        }
+    }
+
+    // Stop 'Enter' key in the address bar
+    document.getElementById('addressInput').addEventListener('keypress', function(event) {
+        if (event.key === 'Enter') {
+            event.preventDefault(); 
+            fetchCoordinates();     
+        }
+    });
+
+    // MASTER LOCK: Stop the entire form from submitting if coordinates are missing!
+    document.getElementById('predictForm').addEventListener('submit', function(event) {
+        if (!document.getElementById('latInput').value) {
+            event.preventDefault(); // Stop the form dead in its tracks
+            document.getElementById('searchStatus').innerHTML = "❌ Please click 'Find' to verify location first!";
+            document.getElementById('searchStatus').className = "small text-danger mb-3 fw-bold";
+        }
+    });
+</script>
+{% endblock %}

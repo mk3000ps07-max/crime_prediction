@@ -1,0 +1,54 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="d-flex align-items-center mb-4">
+    <div class="bg-secondary bg-opacity-10 p-3 rounded-3 me-3">
+        <i class="bi bi-database text-secondary fs-3"></i>
+    </div>
+    <div>
+        <h2 class="fw-bold mb-0 text-dark">Database Records</h2>
+        <p class="text-secondary mb-0">View and manage all raw entries processed by the system.</p>
+    </div>
+    <div class="ms-auto">
+        <a href="{% url 'report_crime' %}" class="btn btn-primary fw-semibold shadow-sm rounded-pill px-4">
+            <i class="bi bi-plus-lg me-1"></i> New Entry
+        </a>
+    </div>
+</div>
+
+<div class="card bg-white shadow-sm border-0 rounded-4 overflow-hidden">
+    <div class="table-responsive">
+        <table class="table table-hover align-middle mb-0 border-top-0">
+            <thead class="table-light text-secondary small text-uppercase" style="letter-spacing: 1px;">
+                <tr>
+                    <th class="ps-4 py-3 fw-semibold border-0">Incident Type</th>
+                    <th class="py-3 fw-semibold border-0">Location</th>
+                    <th class="py-3 fw-semibold border-0">Date</th>
+                    <th class="py-3 fw-semibold border-0">Time</th>
+                </tr>
+            </thead>
+            <tbody class="border-top-0">
+                {% for crime in crimes %}
+                <tr>
+                    <td class="ps-4 py-3 border-light">
+                        <span class="badge bg-danger bg-opacity-10 text-danger rounded-pill px-3 py-2 fw-bold">
+                            {{ crime.crime_type }}
+                        </span>
+                    </td>
+                    <td class="fw-semibold text-dark border-light">{{ crime.location }}</td>
+                    <td class="text-secondary border-light"><i class="bi bi-calendar-event me-2"></i>{{ crime.date }}</td>
+                    <td class="text-secondary border-light"><i class="bi bi-clock me-2"></i>{{ crime.time }}</td>
+                </tr>
+                {% empty %}
+                <tr>
+                    <td colspan="4" class="text-center py-5 text-muted">
+                        <i class="bi bi-inbox fs-1 d-block mb-2"></i>
+                        No records found in the database.
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endblock %}

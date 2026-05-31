@@ -1,0 +1,83 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="mb-4">
+    <h2 class="fw-bold text-dark">Live Geospatial Crime Network Map</h2>
+    <p class="text-secondary">Real-time localized visual tracking feed synchronized directly with database records.</p>
+</div>
+
+<div class="card border-0 shadow-sm rounded-4 overflow-hidden mb-4">
+    <div id="liveGeomap" style="width: 100%; height: 600px;"></div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<style>
+    .leaflet-control-geocoder {
+        z-index: 9999 !important; /* Forces the box to the very front */
+    }
+    .leaflet-control-geocoder-form input {
+        color: #000 !important; /* Ensures typed text is clearly visible */
+        font-size: 14px;
+    }
+</style>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css" />
+<script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
+
+<script>
+    // 3. Initialize Map
+    const map = L.map('liveGeomap').setView([12.9716, 77.5946], 11);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+
+    // 4. THE FIX: Turn on the Search Bar and FORCE it to stay open
+    L.Control.geocoder({
+        position: 'topright',
+        placeholder: 'Search for a location...',
+        errorMessage: 'Nothing found.',
+        collapsed: false  // <-- This forces the box to stay open and clickable!
+    }).addTo(map);
+
+    // 5. Safely package database records 
+    const crimeData = [
+        {% for crime in crimes %}
+            {% if crime.latitude and crime.longitude %}
+            {
+                lat: {{ crime.latitude }},
+                lng: {{ crime.longitude }},
+                type: "{{ crime.crime_type|escapejs|default:'Unknown' }}",
+                location: "{{ crime.location|escapejs|default:'Unknown' }}",
+                time: "{{ crime.time|escapejs|default:'' }}",
+                date: "{{ crime.date|default:'' }}"
+            },
+            {% endif %}
+        {% endfor %}
+    ];
+
+    // 6. Loop through and draw pins
+    crimeData.forEach(function(crime) {
+        const popupContent = `
+            <div style="font-family: sans-serif; min-width: 160px;">
+                <h6 style="margin: 0 0 5px 0; color: #dc3545; font-weight: bold; text-transform: uppercase;">
+                    ⚠️ ${crime.type}
+                </h6>
+                <p style="margin: 0 0 4px 0; font-size: 13px; color: #333;">
+                    <b>Location:</b> ${crime.location}
+                </p>
+                <p style="margin: 0; font-size: 11px; color: #666;">
+                    <b>Logged:</b> ${crime.date} | ${crime.time}
+                </p>
+            </div>
+        `;
+
+        L.marker([crime.lat, crime.lng]).addTo(map).bindPopup(popupContent);
+    });
+</script>
+{% endblock %}

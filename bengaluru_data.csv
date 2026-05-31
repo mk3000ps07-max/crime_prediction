@@ -1,0 +1,501 @@
+Crime Type,Neighborhood,Date,Time,Latitude,Longitude,Description
+Vandalism,Electronic City,2026-05-02,04:03,12.847006,77.689952,Reported vandalism incident near Electronic City junction.
+Traffic Violation,Whitefield,2025-12-31,04:05,12.983694,77.737856,Reported traffic violation incident near Whitefield junction.
+Fraud,Whitefield,2026-05-26,14:47,12.96838,77.762643,Reported fraud incident near Whitefield junction.
+Traffic Violation,Koramangala,2025-10-09,17:25,12.934934,77.641315,Reported traffic violation incident near Koramangala junction.
+Burglary,Majestic,2025-09-27,13:17,12.990572,77.558546,Reported burglary incident near Majestic junction.
+Traffic Violation,Koramangala,2026-03-03,21:25,12.937946,77.633383,Reported traffic violation incident near Koramangala junction.
+Vandalism,Jayanagar,2025-10-26,19:00,12.917586,77.570476,Reported vandalism incident near Jayanagar junction.
+Vandalism,Majestic,2025-06-07,18:35,12.984308,77.569176,Reported vandalism incident near Majestic junction.
+Cybercrime,Malleswaram,2026-05-04,21:53,13.01517,77.561321,Reported cybercrime incident near Malleswaram junction.
+Fraud,Majestic,2025-10-17,18:01,12.972951,77.568936,Reported fraud incident near Majestic junction.
+Assault,Koramangala,2025-10-12,13:57,12.917872,77.614627,Reported assault incident near Koramangala junction.
+Traffic Violation,Malleswaram,2026-04-07,17:58,13.00845,77.570696,Reported traffic violation incident near Malleswaram junction.
+Theft,Malleswaram,2025-10-21,16:41,12.997077,77.559978,Reported theft incident near Malleswaram junction.
+Fraud,Malleswaram,2025-06-14,00:23,12.998131,77.551797,Reported fraud incident near Malleswaram junction.
+Traffic Violation,Indiranagar,2026-03-15,20:18,12.964677,77.65261,Reported traffic violation incident near Indiranagar junction.
+Traffic Violation,Koramangala,2026-01-29,09:15,12.936298,77.621778,Reported traffic violation incident near Koramangala junction.
+Vandalism,Jayanagar,2025-07-13,16:35,12.91615,77.5817,Reported vandalism incident near Jayanagar junction.
+Cybercrime,Koramangala,2025-08-20,16:27,12.933894,77.638814,Reported cybercrime incident near Koramangala junction.
+Cybercrime,Indiranagar,2026-01-13,00:25,12.978788,77.64853,Reported cybercrime incident near Indiranagar junction.
+Cybercrime,Whitefield,2026-01-19,04:06,12.971674,77.756877,Reported cybercrime incident near Whitefield junction.
+Assault,Koramangala,2025-09-22,07:07,12.933197,77.627331,Reported assault incident near Koramangala junction.
+Fraud,Electronic City,2025-07-09,04:45,12.854877,77.689266,Reported fraud incident near Electronic City junction.
+Vandalism,Electronic City,2026-01-08,20:35,12.853289,77.69144,Reported vandalism incident near Electronic City junction.
+Cybercrime,Indiranagar,2025-06-15,19:53,12.978666,77.631389,Reported cybercrime incident near Indiranagar junction.
+Burglary,Indiranagar,2025-09-11,16:24,12.986936,77.633,Reported burglary incident near Indiranagar junction.
+Burglary,Majestic,2026-02-02,17:48,12.980698,77.568473,Reported burglary incident near Majestic junction.
+Assault,Whitefield,2025-06-28,09:26,12.974342,77.738157,Reported assault incident near Whitefield junction.
+Theft,Malleswaram,2025-10-06,16:18,12.989399,77.568254,Reported theft incident near Malleswaram junction.
+Fraud,Indiranagar,2026-05-22,05:31,12.972044,77.652473,Reported fraud incident near Indiranagar junction.
+Cybercrime,Malleswaram,2026-02-12,20:05,13.000999,77.570649,Reported cybercrime incident near Malleswaram junction.
+Assault,Electronic City,2025-07-17,02:20,12.842459,77.668279,Reported assault incident near Electronic City junction.
+Vandalism,Whitefield,2025-10-15,05:14,12.963365,77.749717,Reported vandalism incident near Whitefield junction.
+Cybercrime,Whitefield,2026-04-15,12:33,12.955593,77.745776,Reported cybercrime incident near Whitefield junction.
+Cybercrime,Majestic,2025-11-01,20:47,12.984084,77.55975,Reported cybercrime incident near Majestic junction.
+Traffic Violation,Electronic City,2026-05-09,06:43,12.844291,77.667344,Reported traffic violation incident near Electronic City junction.
+Fraud,Whitefield,2026-02-02,14:44,12.970857,77.744588,Reported fraud incident near Whitefield junction.
+Burglary,Majestic,2025-10-03,04:03,12.976313,77.571609,Reported burglary incident near Majestic junction.
+Vandalism,Majestic,2026-01-31,07:10,12.976475,77.570124,Reported vandalism incident near Majestic junction.
+Vandalism,Majestic,2025-08-04,01:42,12.987046,77.569592,Reported vandalism incident near Majestic junction.
+Fraud,Indiranagar,2025-09-20,22:00,12.99296,77.633613,Reported fraud incident near Indiranagar junction.
+Burglary,Jayanagar,2026-03-02,10:24,12.928489,77.595,Reported burglary incident near Jayanagar junction.
+Theft,Majestic,2025-05-31,22:55,12.975302,77.571433,Reported theft incident near Majestic junction.
+Assault,Whitefield,2025-12-18,14:23,12.976647,77.758774,Reported assault incident near Whitefield junction.
+Fraud,Whitefield,2025-08-19,01:11,12.965054,77.755,Reported fraud incident near Whitefield junction.
+Fraud,Indiranagar,2025-10-19,10:13,12.964091,77.649454,Reported fraud incident near Indiranagar junction.
+Cybercrime,Electronic City,2025-10-01,22:02,12.828159,77.684776,Reported cybercrime incident near Electronic City junction.
+Assault,Indiranagar,2026-02-21,19:18,12.986894,77.643669,Reported assault incident near Indiranagar junction.
+Traffic Violation,Indiranagar,2026-04-04,20:01,12.970509,77.655469,Reported traffic violation incident near Indiranagar junction.
+Traffic Violation,Majestic,2026-01-06,02:47,12.981849,77.567464,Reported traffic violation incident near Majestic junction.
+Cybercrime,Koramangala,2025-08-27,18:09,12.914486,77.614927,Reported cybercrime incident near Koramangala junction.
+Vandalism,Electronic City,2025-08-07,02:31,12.852484,77.685647,Reported vandalism incident near Electronic City junction.
+Traffic Violation,Koramangala,2025-06-28,21:02,12.936314,77.627121,Reported traffic violation incident near Koramangala junction.
+Assault,Electronic City,2026-01-24,07:22,12.838163,77.687414,Reported assault incident near Electronic City junction.
+Theft,Indiranagar,2025-08-03,04:39,12.978697,77.63093,Reported theft incident near Indiranagar junction.
+Cybercrime,Indiranagar,2026-04-19,08:12,12.99129,77.643789,Reported cybercrime incident near Indiranagar junction.
+Theft,Majestic,2025-12-01,03:33,12.978961,77.570082,Reported theft incident near Majestic junction.
+Vandalism,Jayanagar,2025-08-20,03:16,12.921325,77.572501,Reported vandalism incident near Jayanagar junction.
+Fraud,Koramangala,2025-07-28,05:44,12.916783,77.628592,Reported fraud incident near Koramangala junction.
+Theft,Malleswaram,2025-06-23,22:01,13.006234,77.560813,Reported theft incident near Malleswaram junction.
+Theft,Electronic City,2025-07-20,00:39,12.844787,77.68114,Reported theft incident near Electronic City junction.
+Vandalism,Electronic City,2025-07-31,07:27,12.846592,77.68553,Reported vandalism incident near Electronic City junction.
+Burglary,Electronic City,2026-05-28,06:46,12.847609,77.664467,Reported burglary incident near Electronic City junction.
+Traffic Violation,Whitefield,2025-10-07,15:37,12.982235,77.758429,Reported traffic violation incident near Whitefield junction.
+Assault,Jayanagar,2025-07-05,05:14,12.940369,77.583545,Reported assault incident near Jayanagar junction.
+Assault,Whitefield,2026-03-21,02:55,12.971212,77.745454,Reported assault incident near Whitefield junction.
+Vandalism,Koramangala,2025-09-04,10:50,12.929876,77.635731,Reported vandalism incident near Koramangala junction.
+Theft,Malleswaram,2026-05-21,03:06,13.001839,77.566958,Reported theft incident near Malleswaram junction.
+Vandalism,Electronic City,2026-01-20,00:25,12.828364,77.678347,Reported vandalism incident near Electronic City junction.
+Fraud,Whitefield,2025-07-29,22:37,12.964809,77.763855,Reported fraud incident near Whitefield junction.
+Vandalism,Koramangala,2025-06-24,05:50,12.927487,77.625563,Reported vandalism incident near Koramangala junction.
+Theft,Malleswaram,2025-10-05,08:17,13.012355,77.565708,Reported theft incident near Malleswaram junction.
+Assault,Electronic City,2025-09-04,11:56,12.851368,77.672086,Reported assault incident near Electronic City junction.
+Traffic Violation,Electronic City,2025-11-17,12:59,12.832706,77.67842,Reported traffic violation incident near Electronic City junction.
+Traffic Violation,Electronic City,2025-11-03,13:14,12.835085,77.664806,Reported traffic violation incident near Electronic City junction.
+Traffic Violation,Malleswaram,2026-05-01,15:16,12.991837,77.571093,Reported traffic violation incident near Malleswaram junction.
+Vandalism,Whitefield,2025-06-21,11:18,12.977838,77.744223,Reported vandalism incident near Whitefield junction.
+Assault,Electronic City,2025-11-13,11:50,12.850185,77.686196,Reported assault incident near Electronic City junction.
+Vandalism,Malleswaram,2025-06-02,04:16,13.005741,77.562694,Reported vandalism incident near Malleswaram junction.
+Traffic Violation,Jayanagar,2026-02-16,08:26,12.941633,77.586691,Reported traffic violation incident near Jayanagar junction.
+Fraud,Electronic City,2026-02-21,08:47,12.842245,77.678319,Reported fraud incident near Electronic City junction.
+Fraud,Jayanagar,2025-10-16,10:31,12.935336,77.589578,Reported fraud incident near Jayanagar junction.
+Traffic Violation,Electronic City,2025-12-12,20:05,12.844963,77.691303,Reported traffic violation incident near Electronic City junction.
+Fraud,Whitefield,2026-04-08,08:11,12.976324,77.738622,Reported fraud incident near Whitefield junction.
+Cybercrime,Jayanagar,2025-09-26,05:30,12.922875,77.578531,Reported cybercrime incident near Jayanagar junction.
+Vandalism,Indiranagar,2025-10-21,11:17,12.975242,77.655569,Reported vandalism incident near Indiranagar junction.
+Theft,Koramangala,2025-08-25,13:29,12.938539,77.628914,Reported theft incident near Koramangala junction.
+Cybercrime,Whitefield,2026-01-08,15:09,12.95558,77.742585,Reported cybercrime incident near Whitefield junction.
+Vandalism,Indiranagar,2025-06-12,14:34,12.974206,77.627536,Reported vandalism incident near Indiranagar junction.
+Burglary,Jayanagar,2026-01-30,04:02,12.938217,77.596688,Reported burglary incident near Jayanagar junction.
+Theft,Jayanagar,2025-11-17,10:06,12.929111,77.569805,Reported theft incident near Jayanagar junction.
+Fraud,Koramangala,2025-07-25,00:16,12.922218,77.639325,Reported fraud incident near Koramangala junction.
+Theft,Jayanagar,2025-08-09,09:23,12.922565,77.586607,Reported theft incident near Jayanagar junction.
+Burglary,Koramangala,2026-01-15,05:38,12.914027,77.6325,Reported burglary incident near Koramangala junction.
+Assault,Electronic City,2026-01-02,00:57,12.836368,77.663998,Reported assault incident near Electronic City junction.
+Cybercrime,Whitefield,2026-04-18,07:08,12.966614,77.752666,Reported cybercrime incident near Whitefield junction.
+Assault,Indiranagar,2025-10-10,02:07,12.987472,77.654673,Reported assault incident near Indiranagar junction.
+Traffic Violation,Majestic,2025-08-26,01:37,12.971091,77.572799,Reported traffic violation incident near Majestic junction.
+Traffic Violation,Electronic City,2026-02-24,23:17,12.842098,77.686717,Reported traffic violation incident near Electronic City junction.
+Assault,Koramangala,2025-10-02,17:42,12.926959,77.639265,Reported assault incident near Koramangala junction.
+Fraud,Electronic City,2025-08-04,18:11,12.833676,77.666129,Reported fraud incident near Electronic City junction.
+Assault,Malleswaram,2025-09-07,05:24,12.988524,77.564805,Reported assault incident near Malleswaram junction.
+Fraud,Majestic,2025-06-10,00:43,12.973766,77.571516,Reported fraud incident near Majestic junction.
+Theft,Majestic,2025-07-15,02:07,12.977928,77.560856,Reported theft incident near Majestic junction.
+Cybercrime,Indiranagar,2025-11-05,12:50,12.981348,77.644869,Reported cybercrime incident near Indiranagar junction.
+Burglary,Majestic,2026-04-11,18:33,12.962752,77.571003,Reported burglary incident near Majestic junction.
+Vandalism,Indiranagar,2025-07-21,17:20,12.968051,77.653458,Reported vandalism incident near Indiranagar junction.
+Vandalism,Majestic,2025-09-04,00:00,12.990786,77.564584,Reported vandalism incident near Majestic junction.
+Cybercrime,Koramangala,2025-10-10,19:48,12.942136,77.616046,Reported cybercrime incident near Koramangala junction.
+Fraud,Majestic,2026-01-29,02:08,12.986191,77.5686,Reported fraud incident near Majestic junction.
+Cybercrime,Malleswaram,2025-06-24,03:34,12.992723,77.549632,Reported cybercrime incident near Malleswaram junction.
+Theft,Indiranagar,2025-10-18,02:24,12.990061,77.635955,Reported theft incident near Indiranagar junction.
+Traffic Violation,Koramangala,2025-06-09,23:52,12.918935,77.621657,Reported traffic violation incident near Koramangala junction.
+Assault,Electronic City,2025-08-15,10:16,12.854517,77.668559,Reported assault incident near Electronic City junction.
+Traffic Violation,Malleswaram,2025-09-08,05:38,12.99233,77.56061,Reported traffic violation incident near Malleswaram junction.
+Cybercrime,Indiranagar,2025-11-20,22:21,12.971901,77.642132,Reported cybercrime incident near Indiranagar junction.
+Fraud,Koramangala,2026-01-22,01:02,12.930935,77.616382,Reported fraud incident near Koramangala junction.
+Theft,Jayanagar,2026-01-02,21:47,12.933631,77.596172,Reported theft incident near Jayanagar junction.
+Burglary,Jayanagar,2026-02-23,07:42,12.942227,77.591717,Reported burglary incident near Jayanagar junction.
+Assault,Electronic City,2026-01-23,18:05,12.847085,77.667753,Reported assault incident near Electronic City junction.
+Burglary,Jayanagar,2026-03-24,13:26,12.936186,77.568583,Reported burglary incident near Jayanagar junction.
+Traffic Violation,Majestic,2025-11-03,07:50,12.970548,77.563364,Reported traffic violation incident near Majestic junction.
+Assault,Koramangala,2025-07-20,07:55,12.917844,77.634315,Reported assault incident near Koramangala junction.
+Vandalism,Koramangala,2026-05-25,01:37,12.923881,77.617499,Reported vandalism incident near Koramangala junction.
+Vandalism,Koramangala,2026-01-10,16:00,12.94072,77.618269,Reported vandalism incident near Koramangala junction.
+Theft,Jayanagar,2025-11-13,21:02,12.939904,77.591966,Reported theft incident near Jayanagar junction.
+Theft,Electronic City,2025-11-13,04:11,12.852607,77.689724,Reported theft incident near Electronic City junction.
+Traffic Violation,Whitefield,2025-06-09,21:00,12.966474,77.755494,Reported traffic violation incident near Whitefield junction.
+Theft,Whitefield,2025-09-22,23:32,12.961216,77.757653,Reported theft incident near Whitefield junction.
+Fraud,Indiranagar,2025-09-11,16:19,12.983965,77.626248,Reported fraud incident near Indiranagar junction.
+Assault,Majestic,2025-09-23,15:24,12.967787,77.566139,Reported assault incident near Majestic junction.
+Burglary,Koramangala,2026-05-22,02:06,12.929879,77.63415,Reported burglary incident near Koramangala junction.
+Traffic Violation,Majestic,2026-04-19,15:17,12.986303,77.559226,Reported traffic violation incident near Majestic junction.
+Vandalism,Whitefield,2025-06-05,20:13,12.957524,77.753472,Reported vandalism incident near Whitefield junction.
+Fraud,Indiranagar,2026-01-20,17:19,12.985945,77.633699,Reported fraud incident near Indiranagar junction.
+Cybercrime,Jayanagar,2025-10-26,14:29,12.922837,77.581053,Reported cybercrime incident near Jayanagar junction.
+Cybercrime,Malleswaram,2025-10-11,19:16,12.996136,77.557972,Reported cybercrime incident near Malleswaram junction.
+Vandalism,Jayanagar,2026-02-03,06:09,12.923533,77.569369,Reported vandalism incident near Jayanagar junction.
+Fraud,Electronic City,2026-03-17,01:43,12.853606,77.671352,Reported fraud incident near Electronic City junction.
+Theft,Electronic City,2026-05-12,11:16,12.841116,77.671638,Reported theft incident near Electronic City junction.
+Vandalism,Indiranagar,2026-05-05,19:20,12.973433,77.641241,Reported vandalism incident near Indiranagar junction.
+Theft,Malleswaram,2026-03-27,18:33,12.994396,77.566247,Reported theft incident near Malleswaram junction.
+Vandalism,Malleswaram,2026-02-28,12:39,12.999611,77.576455,Reported vandalism incident near Malleswaram junction.
+Traffic Violation,Whitefield,2026-04-28,11:41,12.967421,77.744099,Reported traffic violation incident near Whitefield junction.
+Vandalism,Indiranagar,2025-06-19,10:03,12.982666,77.636869,Reported vandalism incident near Indiranagar junction.
+Vandalism,Electronic City,2025-10-20,18:40,12.825576,77.690446,Reported vandalism incident near Electronic City junction.
+Theft,Whitefield,2026-03-02,05:35,12.955868,77.754787,Reported theft incident near Whitefield junction.
+Vandalism,Whitefield,2025-12-08,20:07,12.968442,77.759641,Reported vandalism incident near Whitefield junction.
+Cybercrime,Malleswaram,2025-07-25,18:32,13.003959,77.573178,Reported cybercrime incident near Malleswaram junction.
+Burglary,Malleswaram,2025-10-15,21:16,13.014771,77.549594,Reported burglary incident near Malleswaram junction.
+Assault,Malleswaram,2026-04-14,12:37,12.994111,77.557824,Reported assault incident near Malleswaram junction.
+Assault,Whitefield,2026-01-01,02:40,12.967902,77.757585,Reported assault incident near Whitefield junction.
+Assault,Koramangala,2026-03-22,01:45,12.917368,77.625767,Reported assault incident near Koramangala junction.
+Assault,Malleswaram,2025-11-20,13:36,12.996153,77.563424,Reported assault incident near Malleswaram junction.
+Vandalism,Jayanagar,2025-12-02,01:21,12.916756,77.570965,Reported vandalism incident near Jayanagar junction.
+Assault,Jayanagar,2025-10-14,01:13,12.929681,77.583716,Reported assault incident near Jayanagar junction.
+Assault,Koramangala,2025-06-23,15:42,12.913861,77.618569,Reported assault incident near Koramangala junction.
+Fraud,Whitefield,2026-01-29,09:11,12.980621,77.755746,Reported fraud incident near Whitefield junction.
+Traffic Violation,Malleswaram,2026-05-13,01:26,12.990951,77.577178,Reported traffic violation incident near Malleswaram junction.
+Cybercrime,Koramangala,2025-09-17,23:04,12.91841,77.633139,Reported cybercrime incident near Koramangala junction.
+Vandalism,Majestic,2025-07-29,21:19,12.983775,77.562769,Reported vandalism incident near Majestic junction.
+Burglary,Jayanagar,2025-12-01,08:36,12.928452,77.576529,Reported burglary incident near Jayanagar junction.
+Cybercrime,Majestic,2026-02-23,07:35,12.970831,77.577901,Reported cybercrime incident near Majestic junction.
+Fraud,Indiranagar,2026-05-26,06:08,12.967303,77.633408,Reported fraud incident near Indiranagar junction.
+Fraud,Whitefield,2026-05-28,03:53,12.975795,77.758739,Reported fraud incident near Whitefield junction.
+Traffic Violation,Jayanagar,2026-01-09,02:13,12.921541,77.583603,Reported traffic violation incident near Jayanagar junction.
+Cybercrime,Koramangala,2026-04-21,17:56,12.941256,77.620704,Reported cybercrime incident near Koramangala junction.
+Burglary,Jayanagar,2025-07-26,22:10,12.916787,77.581358,Reported burglary incident near Jayanagar junction.
+Cybercrime,Whitefield,2025-08-22,16:35,12.976498,77.747936,Reported cybercrime incident near Whitefield junction.
+Fraud,Malleswaram,2026-01-19,05:40,13.008471,77.572171,Reported fraud incident near Malleswaram junction.
+Theft,Jayanagar,2025-07-24,05:46,12.944758,77.57284,Reported theft incident near Jayanagar junction.
+Fraud,Whitefield,2026-02-10,02:26,12.95912,77.742493,Reported fraud incident near Whitefield junction.
+Fraud,Whitefield,2025-12-31,02:00,12.980079,77.762295,Reported fraud incident near Whitefield junction.
+Traffic Violation,Whitefield,2026-03-24,10:09,12.959091,77.74828,Reported traffic violation incident near Whitefield junction.
+Cybercrime,Electronic City,2025-11-06,18:39,12.852607,77.679482,Reported cybercrime incident near Electronic City junction.
+Traffic Violation,Indiranagar,2025-08-01,11:46,12.984776,77.630517,Reported traffic violation incident near Indiranagar junction.
+Cybercrime,Malleswaram,2026-02-24,05:32,13.012276,77.566171,Reported cybercrime incident near Malleswaram junction.
+Cybercrime,Whitefield,2025-07-16,09:13,12.962376,77.756784,Reported cybercrime incident near Whitefield junction.
+Fraud,Jayanagar,2025-09-17,21:09,12.934865,77.570582,Reported fraud incident near Jayanagar junction.
+Traffic Violation,Malleswaram,2025-12-31,04:58,13.006755,77.573808,Reported traffic violation incident near Malleswaram junction.
+Cybercrime,Whitefield,2025-10-07,11:02,12.977683,77.746379,Reported cybercrime incident near Whitefield junction.
+Burglary,Jayanagar,2025-11-17,04:25,12.934308,77.581133,Reported burglary incident near Jayanagar junction.
+Assault,Whitefield,2026-02-01,22:30,12.974868,77.738789,Reported assault incident near Whitefield junction.
+Assault,Jayanagar,2026-04-01,19:49,12.922878,77.593269,Reported assault incident near Jayanagar junction.
+Cybercrime,Malleswaram,2025-11-07,11:03,13.016859,77.561658,Reported cybercrime incident near Malleswaram junction.
+Fraud,Whitefield,2026-05-27,15:17,12.976375,77.738672,Reported fraud incident near Whitefield junction.
+Assault,Electronic City,2026-02-07,10:39,12.828159,77.67676,Reported assault incident near Electronic City junction.
+Cybercrime,Koramangala,2026-03-09,18:31,12.929066,77.626455,Reported cybercrime incident near Koramangala junction.
+Vandalism,Koramangala,2026-05-22,03:42,12.92122,77.618671,Reported vandalism incident near Koramangala junction.
+Cybercrime,Indiranagar,2025-08-26,06:03,12.984868,77.628134,Reported cybercrime incident near Indiranagar junction.
+Assault,Majestic,2025-12-11,05:27,12.979623,77.5821,Reported assault incident near Majestic junction.
+Fraud,Koramangala,2025-06-21,10:01,12.920506,77.61469,Reported fraud incident near Koramangala junction.
+Traffic Violation,Whitefield,2026-01-07,03:01,12.960769,77.753473,Reported traffic violation incident near Whitefield junction.
+Fraud,Koramangala,2025-06-17,10:43,12.927304,77.63236,Reported fraud incident near Koramangala junction.
+Traffic Violation,Electronic City,2026-04-15,14:27,12.830082,77.685208,Reported traffic violation incident near Electronic City junction.
+Vandalism,Majestic,2025-11-28,08:24,12.976872,77.564381,Reported vandalism incident near Majestic junction.
+Cybercrime,Majestic,2025-07-14,04:30,12.967089,77.578475,Reported cybercrime incident near Majestic junction.
+Cybercrime,Majestic,2026-03-12,14:29,12.97164,77.579924,Reported cybercrime incident near Majestic junction.
+Fraud,Jayanagar,2026-01-03,17:11,12.926558,77.582379,Reported fraud incident near Jayanagar junction.
+Traffic Violation,Electronic City,2025-07-20,01:37,12.82541,77.690434,Reported traffic violation incident near Electronic City junction.
+Traffic Violation,Majestic,2025-07-03,22:31,12.991234,77.563682,Reported traffic violation incident near Majestic junction.
+Theft,Majestic,2025-08-14,18:50,12.975154,77.5594,Reported theft incident near Majestic junction.
+Vandalism,Jayanagar,2025-09-14,08:48,12.920617,77.580439,Reported vandalism incident near Jayanagar junction.
+Traffic Violation,Majestic,2026-04-18,23:50,12.985123,77.556337,Reported traffic violation incident near Majestic junction.
+Traffic Violation,Koramangala,2026-02-01,09:43,12.928425,77.619461,Reported traffic violation incident near Koramangala junction.
+Traffic Violation,Malleswaram,2026-01-19,04:10,13.009786,77.574468,Reported traffic violation incident near Malleswaram junction.
+Vandalism,Koramangala,2025-09-24,06:27,12.913961,77.619222,Reported vandalism incident near Koramangala junction.
+Vandalism,Malleswaram,2025-08-21,18:37,13.009012,77.555616,Reported vandalism incident near Malleswaram junction.
+Theft,Malleswaram,2025-12-26,18:36,12.99829,77.562163,Reported theft incident near Malleswaram junction.
+Fraud,Whitefield,2026-01-31,21:10,12.956207,77.736817,Reported fraud incident near Whitefield junction.
+Assault,Majestic,2025-11-04,13:07,12.982222,77.57668,Reported assault incident near Majestic junction.
+Traffic Violation,Indiranagar,2026-01-21,09:27,12.992284,77.64414,Reported traffic violation incident near Indiranagar junction.
+Theft,Whitefield,2025-10-31,14:40,12.972921,77.740017,Reported theft incident near Whitefield junction.
+Fraud,Indiranagar,2026-04-28,17:10,12.980511,77.642524,Reported fraud incident near Indiranagar junction.
+Fraud,Indiranagar,2025-11-04,04:06,12.975454,77.632672,Reported fraud incident near Indiranagar junction.
+Vandalism,Majestic,2026-02-13,07:08,12.990773,77.580901,Reported vandalism incident near Majestic junction.
+Theft,Whitefield,2026-05-15,08:37,12.973338,77.741196,Reported theft incident near Whitefield junction.
+Theft,Indiranagar,2026-04-27,15:33,12.96359,77.630364,Reported theft incident near Indiranagar junction.
+Burglary,Indiranagar,2026-05-05,10:39,12.987562,77.652069,Reported burglary incident near Indiranagar junction.
+Traffic Violation,Indiranagar,2026-01-23,09:11,12.963604,77.65085,Reported traffic violation incident near Indiranagar junction.
+Traffic Violation,Malleswaram,2025-10-06,06:15,12.999696,77.577458,Reported traffic violation incident near Malleswaram junction.
+Burglary,Jayanagar,2025-12-05,17:17,12.941575,77.581288,Reported burglary incident near Jayanagar junction.
+Theft,Majestic,2025-12-26,04:51,12.969581,77.564808,Reported theft incident near Majestic junction.
+Traffic Violation,Whitefield,2025-10-27,09:47,12.974724,77.750807,Reported traffic violation incident near Whitefield junction.
+Fraud,Majestic,2025-09-24,00:03,12.964171,77.582422,Reported fraud incident near Majestic junction.
+Burglary,Majestic,2025-07-11,22:43,12.968583,77.564558,Reported burglary incident near Majestic junction.
+Burglary,Malleswaram,2025-11-05,19:31,12.990444,77.562953,Reported burglary incident near Malleswaram junction.
+Fraud,Electronic City,2026-01-02,08:45,12.831408,77.666718,Reported fraud incident near Electronic City junction.
+Burglary,Indiranagar,2026-02-06,23:09,12.991092,77.642624,Reported burglary incident near Indiranagar junction.
+Traffic Violation,Indiranagar,2026-02-12,23:51,12.974729,77.652574,Reported traffic violation incident near Indiranagar junction.
+Burglary,Jayanagar,2026-03-22,00:14,12.916346,77.568163,Reported burglary incident near Jayanagar junction.
+Vandalism,Whitefield,2026-02-26,21:20,12.966357,77.764652,Reported vandalism incident near Whitefield junction.
+Vandalism,Whitefield,2025-06-12,06:27,12.96917,77.74464,Reported vandalism incident near Whitefield junction.
+Vandalism,Malleswaram,2026-01-05,23:29,13.008771,77.575947,Reported vandalism incident near Malleswaram junction.
+Traffic Violation,Malleswaram,2025-10-31,22:00,13.005651,77.551287,Reported traffic violation incident near Malleswaram junction.
+Fraud,Malleswaram,2026-04-04,15:24,12.997127,77.56807,Reported fraud incident near Malleswaram junction.
+Theft,Majestic,2025-11-07,20:10,12.989827,77.582067,Reported theft incident near Majestic junction.
+Burglary,Malleswaram,2025-07-10,02:12,13.009608,77.563606,Reported burglary incident near Malleswaram junction.
+Theft,Whitefield,2025-12-18,22:07,12.982173,77.736539,Reported theft incident near Whitefield junction.
+Assault,Whitefield,2025-09-19,06:39,12.962055,77.748111,Reported assault incident near Whitefield junction.
+Cybercrime,Koramangala,2026-05-04,12:05,12.923839,77.618138,Reported cybercrime incident near Koramangala junction.
+Fraud,Koramangala,2025-11-17,11:54,12.928233,77.627023,Reported fraud incident near Koramangala junction.
+Cybercrime,Jayanagar,2025-07-13,04:49,12.943591,77.582311,Reported cybercrime incident near Jayanagar junction.
+Assault,Malleswaram,2025-10-02,15:06,13.000774,77.560732,Reported assault incident near Malleswaram junction.
+Theft,Majestic,2025-11-29,06:37,12.986708,77.564425,Reported theft incident near Majestic junction.
+Traffic Violation,Majestic,2026-05-02,08:20,12.98685,77.57308,Reported traffic violation incident near Majestic junction.
+Assault,Whitefield,2026-02-10,16:35,12.98252,77.747925,Reported assault incident near Whitefield junction.
+Traffic Violation,Malleswaram,2025-09-14,17:26,12.991845,77.573302,Reported traffic violation incident near Malleswaram junction.
+Assault,Majestic,2025-07-18,05:53,12.977299,77.557543,Reported assault incident near Majestic junction.
+Vandalism,Indiranagar,2026-04-24,16:10,12.987294,77.640606,Reported vandalism incident near Indiranagar junction.
+Cybercrime,Electronic City,2025-11-06,12:07,12.83506,77.685918,Reported cybercrime incident near Electronic City junction.
+Assault,Majestic,2026-03-28,20:23,12.985171,77.577355,Reported assault incident near Majestic junction.
+Fraud,Malleswaram,2026-05-11,10:10,12.998785,77.555863,Reported fraud incident near Malleswaram junction.
+Burglary,Jayanagar,2025-08-02,14:27,12.926085,77.58899,Reported burglary incident near Jayanagar junction.
+Cybercrime,Indiranagar,2025-11-04,00:18,12.970476,77.633736,Reported cybercrime incident near Indiranagar junction.
+Traffic Violation,Jayanagar,2025-09-20,08:30,12.935044,77.58129,Reported traffic violation incident near Jayanagar junction.
+Burglary,Jayanagar,2026-01-19,09:08,12.928998,77.593876,Reported burglary incident near Jayanagar junction.
+Theft,Malleswaram,2026-04-26,18:27,13.009163,77.555688,Reported theft incident near Malleswaram junction.
+Cybercrime,Malleswaram,2025-10-02,08:23,12.998778,77.553383,Reported cybercrime incident near Malleswaram junction.
+Burglary,Koramangala,2025-06-30,21:08,12.940678,77.617767,Reported burglary incident near Koramangala junction.
+Fraud,Majestic,2026-02-27,00:49,12.970055,77.578814,Reported fraud incident near Majestic junction.
+Cybercrime,Koramangala,2025-10-14,08:22,12.941915,77.626616,Reported cybercrime incident near Koramangala junction.
+Burglary,Malleswaram,2025-09-16,10:30,13.00166,77.578099,Reported burglary incident near Malleswaram junction.
+Fraud,Jayanagar,2026-04-05,19:43,12.916525,77.588767,Reported fraud incident near Jayanagar junction.
+Vandalism,Electronic City,2026-02-16,20:41,12.828887,77.662886,Reported vandalism incident near Electronic City junction.
+Assault,Majestic,2026-02-02,15:40,12.976511,77.558353,Reported assault incident near Majestic junction.
+Cybercrime,Electronic City,2025-11-18,18:23,12.826033,77.676817,Reported cybercrime incident near Electronic City junction.
+Burglary,Jayanagar,2026-05-20,18:39,12.927275,77.590717,Reported burglary incident near Jayanagar junction.
+Fraud,Whitefield,2025-06-22,18:20,12.965539,77.743884,Reported fraud incident near Whitefield junction.
+Vandalism,Malleswaram,2025-10-02,17:43,13.003671,77.561395,Reported vandalism incident near Malleswaram junction.
+Cybercrime,Indiranagar,2025-10-24,18:53,12.965513,77.629962,Reported cybercrime incident near Indiranagar junction.
+Theft,Malleswaram,2026-05-01,22:28,13.01529,77.561691,Reported theft incident near Malleswaram junction.
+Vandalism,Koramangala,2025-08-03,07:02,12.919211,77.634334,Reported vandalism incident near Koramangala junction.
+Burglary,Majestic,2025-10-13,03:56,12.968875,77.556395,Reported burglary incident near Majestic junction.
+Traffic Violation,Koramangala,2026-03-08,03:00,12.928197,77.615884,Reported traffic violation incident near Koramangala junction.
+Traffic Violation,Whitefield,2025-06-25,06:38,12.955993,77.743973,Reported traffic violation incident near Whitefield junction.
+Vandalism,Malleswaram,2025-10-17,22:01,13.014998,77.556433,Reported vandalism incident near Malleswaram junction.
+Assault,Jayanagar,2025-09-06,23:59,12.924643,77.585454,Reported assault incident near Jayanagar junction.
+Cybercrime,Electronic City,2025-08-12,09:13,12.83623,77.666725,Reported cybercrime incident near Electronic City junction.
+Fraud,Indiranagar,2025-08-31,12:59,12.989506,77.633008,Reported fraud incident near Indiranagar junction.
+Vandalism,Koramangala,2026-05-18,04:56,12.942198,77.630715,Reported vandalism incident near Koramangala junction.
+Fraud,Malleswaram,2026-02-05,04:26,12.994187,77.554786,Reported fraud incident near Malleswaram junction.
+Fraud,Majestic,2025-07-26,20:15,12.9812,77.584659,Reported fraud incident near Majestic junction.
+Assault,Jayanagar,2026-02-12,20:10,12.93796,77.58235,Reported assault incident near Jayanagar junction.
+Fraud,Whitefield,2026-02-23,14:25,12.960656,77.737285,Reported fraud incident near Whitefield junction.
+Fraud,Indiranagar,2025-07-06,21:47,12.977977,77.634644,Reported fraud incident near Indiranagar junction.
+Fraud,Indiranagar,2025-05-31,16:30,12.970036,77.636283,Reported fraud incident near Indiranagar junction.
+Theft,Majestic,2025-06-26,23:07,12.983108,77.583174,Reported theft incident near Majestic junction.
+Traffic Violation,Malleswaram,2026-02-28,20:16,13.006102,77.552358,Reported traffic violation incident near Malleswaram junction.
+Vandalism,Malleswaram,2025-12-18,06:07,13.00223,77.570378,Reported vandalism incident near Malleswaram junction.
+Cybercrime,Jayanagar,2025-09-19,12:58,12.933227,77.579287,Reported cybercrime incident near Jayanagar junction.
+Assault,Majestic,2025-07-21,22:13,12.985943,77.564255,Reported assault incident near Majestic junction.
+Vandalism,Whitefield,2025-07-25,05:11,12.968802,77.735228,Reported vandalism incident near Whitefield junction.
+Vandalism,Jayanagar,2026-03-09,01:08,12.936296,77.586692,Reported vandalism incident near Jayanagar junction.
+Theft,Jayanagar,2026-05-04,08:44,12.932081,77.579627,Reported theft incident near Jayanagar junction.
+Fraud,Majestic,2025-09-11,14:43,12.969112,77.575134,Reported fraud incident near Majestic junction.
+Theft,Majestic,2025-08-28,00:02,12.967109,77.586224,Reported theft incident near Majestic junction.
+Vandalism,Jayanagar,2025-06-03,09:23,12.939837,77.585663,Reported vandalism incident near Jayanagar junction.
+Theft,Whitefield,2026-04-27,05:22,12.972987,77.755111,Reported theft incident near Whitefield junction.
+Vandalism,Whitefield,2025-06-27,06:06,12.968975,77.74248,Reported vandalism incident near Whitefield junction.
+Theft,Majestic,2026-05-10,16:04,12.968226,77.580688,Reported theft incident near Majestic junction.
+Burglary,Electronic City,2025-08-17,08:53,12.833808,77.686627,Reported burglary incident near Electronic City junction.
+Cybercrime,Malleswaram,2025-12-10,08:46,12.99196,77.566091,Reported cybercrime incident near Malleswaram junction.
+Vandalism,Koramangala,2025-11-05,18:46,12.940246,77.616113,Reported vandalism incident near Koramangala junction.
+Theft,Malleswaram,2026-05-02,19:41,12.9993,77.576643,Reported theft incident near Malleswaram junction.
+Theft,Whitefield,2025-05-31,04:05,12.96786,77.739618,Reported theft incident near Whitefield junction.
+Cybercrime,Indiranagar,2025-06-13,05:15,12.966919,77.647249,Reported cybercrime incident near Indiranagar junction.
+Theft,Indiranagar,2026-05-05,05:34,12.984959,77.653295,Reported theft incident near Indiranagar junction.
+Traffic Violation,Malleswaram,2026-01-15,10:12,12.996115,77.551648,Reported traffic violation incident near Malleswaram junction.
+Traffic Violation,Whitefield,2026-03-02,06:55,12.964433,77.756523,Reported traffic violation incident near Whitefield junction.
+Traffic Violation,Indiranagar,2025-11-18,23:41,12.992563,77.640932,Reported traffic violation incident near Indiranagar junction.
+Fraud,Majestic,2025-09-02,02:52,12.965391,77.575709,Reported fraud incident near Majestic junction.
+Assault,Jayanagar,2025-06-04,06:52,12.929387,77.59175,Reported assault incident near Jayanagar junction.
+Fraud,Koramangala,2025-08-14,00:09,12.923479,77.614757,Reported fraud incident near Koramangala junction.
+Fraud,Jayanagar,2025-06-27,09:04,12.930879,77.581412,Reported fraud incident near Jayanagar junction.
+Vandalism,Koramangala,2026-05-17,12:01,12.92141,77.615197,Reported vandalism incident near Koramangala junction.
+Assault,Indiranagar,2025-10-22,04:55,12.984861,77.64489,Reported assault incident near Indiranagar junction.
+Vandalism,Indiranagar,2026-04-19,10:11,12.98183,77.641218,Reported vandalism incident near Indiranagar junction.
+Theft,Electronic City,2025-09-14,08:56,12.854268,77.678661,Reported theft incident near Electronic City junction.
+Traffic Violation,Whitefield,2025-11-27,04:25,12.984403,77.757711,Reported traffic violation incident near Whitefield junction.
+Vandalism,Majestic,2025-08-19,12:19,12.975174,77.572223,Reported vandalism incident near Majestic junction.
+Theft,Whitefield,2025-10-25,11:34,12.960749,77.759347,Reported theft incident near Whitefield junction.
+Cybercrime,Electronic City,2026-01-23,03:28,12.839189,77.673277,Reported cybercrime incident near Electronic City junction.
+Traffic Violation,Indiranagar,2026-04-13,10:29,12.981909,77.63995,Reported traffic violation incident near Indiranagar junction.
+Cybercrime,Jayanagar,2026-05-02,18:52,12.929469,77.584889,Reported cybercrime incident near Jayanagar junction.
+Theft,Koramangala,2025-09-24,19:35,12.918776,77.628388,Reported theft incident near Koramangala junction.
+Traffic Violation,Malleswaram,2025-07-22,17:10,13.016465,77.577781,Reported traffic violation incident near Malleswaram junction.
+Fraud,Whitefield,2026-04-12,20:10,12.964457,77.747245,Reported fraud incident near Whitefield junction.
+Burglary,Malleswaram,2026-02-26,09:42,13.01373,77.562962,Reported burglary incident near Malleswaram junction.
+Traffic Violation,Whitefield,2025-06-19,21:05,12.970492,77.744402,Reported traffic violation incident near Whitefield junction.
+Theft,Indiranagar,2026-05-28,15:30,12.977559,77.64342,Reported theft incident near Indiranagar junction.
+Fraud,Indiranagar,2026-03-31,02:17,12.968266,77.646988,Reported fraud incident near Indiranagar junction.
+Burglary,Jayanagar,2026-03-12,07:05,12.942378,77.572161,Reported burglary incident near Jayanagar junction.
+Cybercrime,Indiranagar,2025-08-28,08:39,12.981504,77.653642,Reported cybercrime incident near Indiranagar junction.
+Burglary,Indiranagar,2026-03-26,09:02,12.990025,77.63482,Reported burglary incident near Indiranagar junction.
+Vandalism,Electronic City,2025-07-22,16:17,12.841522,77.685868,Reported vandalism incident near Electronic City junction.
+Vandalism,Majestic,2025-09-18,21:59,12.978844,77.57383,Reported vandalism incident near Majestic junction.
+Burglary,Jayanagar,2026-05-21,16:41,12.916091,77.569907,Reported burglary incident near Jayanagar junction.
+Fraud,Electronic City,2026-05-02,21:14,12.840817,77.673294,Reported fraud incident near Electronic City junction.
+Cybercrime,Koramangala,2026-01-15,22:07,12.922882,77.620869,Reported cybercrime incident near Koramangala junction.
+Burglary,Indiranagar,2025-11-21,07:30,12.990645,77.642044,Reported burglary incident near Indiranagar junction.
+Vandalism,Koramangala,2025-10-08,02:32,12.915809,77.613702,Reported vandalism incident near Koramangala junction.
+Traffic Violation,Electronic City,2025-09-16,23:03,12.828211,77.683585,Reported traffic violation incident near Electronic City junction.
+Cybercrime,Indiranagar,2025-11-04,18:18,12.969553,77.646586,Reported cybercrime incident near Indiranagar junction.
+Traffic Violation,Whitefield,2025-10-04,02:23,12.957571,77.759771,Reported traffic violation incident near Whitefield junction.
+Vandalism,Electronic City,2025-09-19,03:15,12.851574,77.686587,Reported vandalism incident near Electronic City junction.
+Fraud,Jayanagar,2026-04-23,11:04,12.919509,77.570518,Reported fraud incident near Jayanagar junction.
+Theft,Malleswaram,2025-08-17,21:59,13.006147,77.569774,Reported theft incident near Malleswaram junction.
+Fraud,Koramangala,2025-07-11,00:56,12.942351,77.634332,Reported fraud incident near Koramangala junction.
+Cybercrime,Electronic City,2026-01-08,14:43,12.829494,77.67627,Reported cybercrime incident near Electronic City junction.
+Theft,Malleswaram,2025-11-26,19:12,13.007002,77.571223,Reported theft incident near Malleswaram junction.
+Cybercrime,Majestic,2025-07-31,15:22,12.980169,77.561404,Reported cybercrime incident near Majestic junction.
+Theft,Majestic,2025-11-09,13:10,12.9829,77.578753,Reported theft incident near Majestic junction.
+Vandalism,Indiranagar,2025-09-26,06:35,12.966029,77.647017,Reported vandalism incident near Indiranagar junction.
+Vandalism,Majestic,2025-12-13,11:15,12.962976,77.570045,Reported vandalism incident near Majestic junction.
+Burglary,Malleswaram,2026-02-06,08:33,13.003569,77.570864,Reported burglary incident near Malleswaram junction.
+Traffic Violation,Indiranagar,2025-10-13,14:29,12.980279,77.643671,Reported traffic violation incident near Indiranagar junction.
+Burglary,Electronic City,2025-06-08,14:43,12.842947,77.676561,Reported burglary incident near Electronic City junction.
+Traffic Violation,Indiranagar,2026-01-15,04:09,12.9817,77.628731,Reported traffic violation incident near Indiranagar junction.
+Traffic Violation,Indiranagar,2025-06-16,18:09,12.975643,77.651226,Reported traffic violation incident near Indiranagar junction.
+Vandalism,Whitefield,2026-04-29,14:43,12.964817,77.757203,Reported vandalism incident near Whitefield junction.
+Theft,Whitefield,2026-04-12,22:56,12.959096,77.749578,Reported theft incident near Whitefield junction.
+Fraud,Koramangala,2026-05-03,12:56,12.914192,77.622149,Reported fraud incident near Koramangala junction.
+Assault,Malleswaram,2025-11-17,20:50,12.999664,77.560318,Reported assault incident near Malleswaram junction.
+Burglary,Jayanagar,2025-10-24,10:49,12.924704,77.575666,Reported burglary incident near Jayanagar junction.
+Fraud,Jayanagar,2026-05-09,03:39,12.91971,77.569967,Reported fraud incident near Jayanagar junction.
+Theft,Indiranagar,2025-07-14,00:13,12.973616,77.640917,Reported theft incident near Indiranagar junction.
+Traffic Violation,Malleswaram,2026-05-16,02:27,13.014422,77.549499,Reported traffic violation incident near Malleswaram junction.
+Theft,Whitefield,2026-05-18,04:51,12.959667,77.761656,Reported theft incident near Whitefield junction.
+Fraud,Majestic,2025-12-12,07:44,12.986413,77.565118,Reported fraud incident near Majestic junction.
+Burglary,Koramangala,2025-10-02,08:35,12.935713,77.639569,Reported burglary incident near Koramangala junction.
+Traffic Violation,Koramangala,2026-05-15,17:04,12.917493,77.62807,Reported traffic violation incident near Koramangala junction.
+Theft,Koramangala,2026-03-15,10:09,12.942618,77.623857,Reported theft incident near Koramangala junction.
+Theft,Whitefield,2026-02-27,05:02,12.979845,77.743317,Reported theft incident near Whitefield junction.
+Traffic Violation,Malleswaram,2025-08-09,20:50,12.989939,77.573189,Reported traffic violation incident near Malleswaram junction.
+Fraud,Whitefield,2025-12-20,23:14,12.979238,77.7377,Reported fraud incident near Whitefield junction.
+Traffic Violation,Whitefield,2026-03-25,09:12,12.976004,77.76202,Reported traffic violation incident near Whitefield junction.
+Theft,Electronic City,2025-12-26,06:38,12.847781,77.682031,Reported theft incident near Electronic City junction.
+Fraud,Malleswaram,2025-10-06,13:18,12.988893,77.551951,Reported fraud incident near Malleswaram junction.
+Assault,Jayanagar,2025-08-20,07:53,12.9401,77.576557,Reported assault incident near Jayanagar junction.
+Burglary,Electronic City,2026-04-13,12:56,12.831045,77.663728,Reported burglary incident near Electronic City junction.
+Cybercrime,Electronic City,2026-05-26,00:34,12.833591,77.67914,Reported cybercrime incident near Electronic City junction.
+Vandalism,Majestic,2025-07-25,14:42,12.972605,77.58541,Reported vandalism incident near Majestic junction.
+Theft,Whitefield,2025-08-26,10:37,12.955412,77.751805,Reported theft incident near Whitefield junction.
+Assault,Malleswaram,2025-06-21,22:51,13.014388,77.552144,Reported assault incident near Malleswaram junction.
+Cybercrime,Jayanagar,2025-07-23,16:18,12.922598,77.596786,Reported cybercrime incident near Jayanagar junction.
+Vandalism,Koramangala,2026-01-05,14:33,12.921774,77.614522,Reported vandalism incident near Koramangala junction.
+Fraud,Majestic,2025-12-01,07:52,12.973868,77.583197,Reported fraud incident near Majestic junction.
+Theft,Koramangala,2026-04-18,14:09,12.919419,77.62666,Reported theft incident near Koramangala junction.
+Burglary,Electronic City,2025-08-03,18:05,12.826077,77.667719,Reported burglary incident near Electronic City junction.
+Traffic Violation,Koramangala,2026-04-19,19:53,12.932729,77.619839,Reported traffic violation incident near Koramangala junction.
+Traffic Violation,Jayanagar,2026-01-20,02:48,12.923258,77.568507,Reported traffic violation incident near Jayanagar junction.
+Cybercrime,Indiranagar,2025-06-24,23:37,12.979637,77.655205,Reported cybercrime incident near Indiranagar junction.
+Theft,Malleswaram,2025-11-15,15:27,12.9987,77.559596,Reported theft incident near Malleswaram junction.
+Burglary,Whitefield,2025-09-30,06:38,12.974557,77.762586,Reported burglary incident near Whitefield junction.
+Fraud,Whitefield,2025-12-11,19:16,12.967855,77.756567,Reported fraud incident near Whitefield junction.
+Assault,Koramangala,2026-01-22,23:24,12.92776,77.613184,Reported assault incident near Koramangala junction.
+Assault,Indiranagar,2025-09-30,20:27,12.983353,77.652889,Reported assault incident near Indiranagar junction.
+Assault,Malleswaram,2026-03-26,20:49,13.006311,77.563324,Reported assault incident near Malleswaram junction.
+Fraud,Majestic,2025-11-06,16:45,12.978203,77.565529,Reported fraud incident near Majestic junction.
+Cybercrime,Koramangala,2026-04-16,15:26,12.929018,77.641018,Reported cybercrime incident near Koramangala junction.
+Theft,Malleswaram,2025-07-09,02:09,13.008885,77.56073,Reported theft incident near Malleswaram junction.
+Cybercrime,Indiranagar,2026-05-14,21:29,12.979157,77.651426,Reported cybercrime incident near Indiranagar junction.
+Theft,Koramangala,2025-05-31,11:39,12.918044,77.620774,Reported theft incident near Koramangala junction.
+Cybercrime,Majestic,2025-11-10,11:29,12.963849,77.583729,Reported cybercrime incident near Majestic junction.
+Vandalism,Jayanagar,2026-04-12,09:04,12.929816,77.588331,Reported vandalism incident near Jayanagar junction.
+Fraud,Malleswaram,2026-01-19,19:14,12.998311,77.560027,Reported fraud incident near Malleswaram junction.
+Theft,Majestic,2026-03-18,06:52,12.962279,77.578675,Reported theft incident near Majestic junction.
+Cybercrime,Koramangala,2025-08-06,09:45,12.924015,77.641204,Reported cybercrime incident near Koramangala junction.
+Burglary,Indiranagar,2025-12-28,12:47,12.985912,77.642016,Reported burglary incident near Indiranagar junction.
+Assault,Whitefield,2025-11-18,16:07,12.967938,77.761233,Reported assault incident near Whitefield junction.
+Theft,Malleswaram,2026-05-02,14:47,13.00914,77.57916,Reported theft incident near Malleswaram junction.
+Traffic Violation,Jayanagar,2025-07-23,14:33,12.939429,77.586703,Reported traffic violation incident near Jayanagar junction.
+Theft,Jayanagar,2026-04-08,01:04,12.930929,77.577872,Reported theft incident near Jayanagar junction.
+Burglary,Electronic City,2026-03-08,13:22,12.827266,77.689348,Reported burglary incident near Electronic City junction.
+Traffic Violation,Indiranagar,2026-03-20,05:37,12.981815,77.645046,Reported traffic violation incident near Indiranagar junction.
+Vandalism,Whitefield,2025-06-29,09:13,12.962934,77.744492,Reported vandalism incident near Whitefield junction.
+Traffic Violation,Jayanagar,2026-01-31,23:09,12.935627,77.588779,Reported traffic violation incident near Jayanagar junction.
+Theft,Electronic City,2026-04-15,05:51,12.839654,77.668257,Reported theft incident near Electronic City junction.
+Vandalism,Indiranagar,2025-09-02,00:36,12.979543,77.640887,Reported vandalism incident near Indiranagar junction.
+Assault,Jayanagar,2025-07-06,20:23,12.916535,77.587111,Reported assault incident near Jayanagar junction.
+Theft,Whitefield,2026-03-24,11:05,12.963921,77.736669,Reported theft incident near Whitefield junction.
+Fraud,Electronic City,2025-07-11,05:17,12.842622,77.687032,Reported fraud incident near Electronic City junction.
+Assault,Whitefield,2026-03-27,10:24,12.976187,77.754859,Reported assault incident near Whitefield junction.
+Cybercrime,Koramangala,2025-06-10,01:15,12.920717,77.62699,Reported cybercrime incident near Koramangala junction.
+Burglary,Indiranagar,2026-01-31,07:13,12.987932,77.641803,Reported burglary incident near Indiranagar junction.
+Cybercrime,Jayanagar,2025-06-08,06:18,12.920894,77.572253,Reported cybercrime incident near Jayanagar junction.
+Traffic Violation,Jayanagar,2026-03-16,10:00,12.940437,77.568677,Reported traffic violation incident near Jayanagar junction.
+Assault,Indiranagar,2025-12-12,04:40,12.964246,77.64389,Reported assault incident near Indiranagar junction.
+Burglary,Malleswaram,2025-11-26,04:21,12.994575,77.554838,Reported burglary incident near Malleswaram junction.
+Burglary,Whitefield,2026-03-09,23:21,12.982239,77.740714,Reported burglary incident near Whitefield junction.
+Theft,Jayanagar,2025-07-15,23:46,12.93502,77.58539,Reported theft incident near Jayanagar junction.
+Fraud,Electronic City,2025-10-12,06:01,12.850556,77.662271,Reported fraud incident near Electronic City junction.
+Assault,Majestic,2026-02-20,18:53,12.966064,77.561104,Reported assault incident near Majestic junction.
+Fraud,Electronic City,2025-10-07,19:56,12.839355,77.688274,Reported fraud incident near Electronic City junction.
+Fraud,Majestic,2026-02-18,14:40,12.985858,77.581011,Reported fraud incident near Majestic junction.
+Burglary,Indiranagar,2026-01-30,11:03,12.97605,77.653022,Reported burglary incident near Indiranagar junction.
+Cybercrime,Indiranagar,2026-01-28,07:46,12.98131,77.652879,Reported cybercrime incident near Indiranagar junction.
+Traffic Violation,Indiranagar,2025-07-18,10:52,12.979607,77.640778,Reported traffic violation incident near Indiranagar junction.
+Vandalism,Majestic,2025-07-04,00:01,12.971195,77.575663,Reported vandalism incident near Majestic junction.
+Assault,Koramangala,2026-02-06,09:05,12.932916,77.637997,Reported assault incident near Koramangala junction.
+Traffic Violation,Electronic City,2025-07-26,07:53,12.84649,77.673245,Reported traffic violation incident near Electronic City junction.
+Assault,Majestic,2025-10-03,13:51,12.963012,77.570621,Reported assault incident near Majestic junction.
+Vandalism,Electronic City,2025-12-13,09:50,12.829571,77.669527,Reported vandalism incident near Electronic City junction.
+Theft,Indiranagar,2025-07-28,04:59,12.969787,77.630762,Reported theft incident near Indiranagar junction.
+Fraud,Koramangala,2025-08-28,10:13,12.939443,77.622613,Reported fraud incident near Koramangala junction.
+Assault,Majestic,2026-03-18,18:16,12.965595,77.572201,Reported assault incident near Majestic junction.
+Burglary,Indiranagar,2025-10-05,07:10,12.984361,77.650319,Reported burglary incident near Indiranagar junction.
+Vandalism,Majestic,2025-10-12,22:47,12.980182,77.578158,Reported vandalism incident near Majestic junction.
+Assault,Majestic,2026-04-05,12:56,12.976374,77.585395,Reported assault incident near Majestic junction.
+Theft,Malleswaram,2026-02-25,06:19,13.013875,77.57556,Reported theft incident near Malleswaram junction.
+Burglary,Electronic City,2026-04-02,10:43,12.843385,77.676832,Reported burglary incident near Electronic City junction.
+Assault,Indiranagar,2026-04-13,17:58,12.989552,77.627837,Reported assault incident near Indiranagar junction.
+Traffic Violation,Electronic City,2026-02-09,06:41,12.835835,77.672449,Reported traffic violation incident near Electronic City junction.
+Theft,Majestic,2025-10-26,20:06,12.961778,77.585219,Reported theft incident near Majestic junction.
+Burglary,Electronic City,2026-02-17,11:18,12.833667,77.689842,Reported burglary incident near Electronic City junction.
+Fraud,Majestic,2026-02-27,22:33,12.966166,77.575197,Reported fraud incident near Majestic junction.
+Cybercrime,Jayanagar,2026-04-13,10:44,12.919362,77.570636,Reported cybercrime incident near Jayanagar junction.
+Cybercrime,Whitefield,2025-05-28,23:41,12.958718,77.755576,Reported cybercrime incident near Whitefield junction.
+Assault,Electronic City,2026-05-14,23:28,12.841787,77.66474,Reported assault incident near Electronic City junction.
+Burglary,Majestic,2026-03-23,06:49,12.962016,77.575094,Reported burglary incident near Majestic junction.
+Assault,Malleswaram,2025-06-12,05:40,13.00672,77.569694,Reported assault incident near Malleswaram junction.
+Cybercrime,Malleswaram,2026-01-04,15:30,12.998903,77.560748,Reported cybercrime incident near Malleswaram junction.
+Assault,Majestic,2025-10-31,09:31,12.978353,77.584808,Reported assault incident near Majestic junction.
+Burglary,Koramangala,2025-09-24,19:48,12.921116,77.621202,Reported burglary incident near Koramangala junction.
+Fraud,Malleswaram,2025-08-25,05:44,13.016447,77.575272,Reported fraud incident near Malleswaram junction.
+Burglary,Majestic,2025-11-16,10:35,12.968323,77.576156,Reported burglary incident near Majestic junction.
+Assault,Indiranagar,2025-09-09,17:39,12.979842,77.643742,Reported assault incident near Indiranagar junction.
+Burglary,Koramangala,2025-06-12,03:49,12.923317,77.629258,Reported burglary incident near Koramangala junction.
+Burglary,Electronic City,2025-08-10,07:29,12.848977,77.677079,Reported burglary incident near Electronic City junction.
+Vandalism,Jayanagar,2025-06-26,21:45,12.942254,77.588488,Reported vandalism incident near Jayanagar junction.
+Vandalism,Jayanagar,2025-09-17,07:50,12.936528,77.577583,Reported vandalism incident near Jayanagar junction.
+Traffic Violation,Majestic,2026-03-14,08:37,12.986353,77.569948,Reported traffic violation incident near Majestic junction.
+Cybercrime,Majestic,2025-08-19,17:50,12.966133,77.582813,Reported cybercrime incident near Majestic junction.
+Theft,Jayanagar,2025-09-16,04:58,12.92499,77.568652,Reported theft incident near Jayanagar junction.
+Fraud,Majestic,2026-02-18,03:00,12.979933,77.566324,Reported fraud incident near Majestic junction.
+Fraud,Majestic,2025-07-07,05:35,12.98354,77.576438,Reported fraud incident near Majestic junction.
+Vandalism,Majestic,2025-09-20,13:36,12.983163,77.561835,Reported vandalism incident near Majestic junction.
+Vandalism,Indiranagar,2026-04-03,15:24,12.983626,77.655626,Reported vandalism incident near Indiranagar junction.
+Assault,Indiranagar,2025-08-16,09:28,12.972235,77.653287,Reported assault incident near Indiranagar junction.
+Burglary,Majestic,2025-05-29,13:07,12.982215,77.581841,Reported burglary incident near Majestic junction.
+Traffic Violation,Malleswaram,2025-07-02,01:50,13.009344,77.556909,Reported traffic violation incident near Malleswaram junction.
+Theft,Whitefield,2025-12-03,23:47,12.97296,77.764279,Reported theft incident near Whitefield junction.
+Traffic Violation,Majestic,2025-06-10,19:34,12.991422,77.574104,Reported traffic violation incident near Majestic junction.
+Theft,Electronic City,2026-03-01,13:45,12.826895,77.688891,Reported theft incident near Electronic City junction.
+Assault,Jayanagar,2025-07-25,09:12,12.92385,77.58106,Reported assault incident near Jayanagar junction.
+Traffic Violation,Jayanagar,2025-08-25,11:55,12.9317,77.569053,Reported traffic violation incident near Jayanagar junction.
+Cybercrime,Malleswaram,2025-06-30,14:24,13.017655,77.56388,Reported cybercrime incident near Malleswaram junction.
+Traffic Violation,Indiranagar,2025-08-26,14:12,12.975122,77.642579,Reported traffic violation incident near Indiranagar junction.
+Theft,Majestic,2025-11-06,11:59,12.972994,77.557439,Reported theft incident near Majestic junction.
+Fraud,Majestic,2025-12-29,12:23,12.964469,77.58583,Reported fraud incident near Majestic junction.
+Burglary,Malleswaram,2025-10-18,18:41,12.992344,77.56193,Reported burglary incident near Malleswaram junction.
+Cybercrime,Majestic,2026-01-12,12:59,12.977133,77.579564,Reported cybercrime incident near Majestic junction.
+Vandalism,Electronic City,2026-03-21,13:55,12.842808,77.663078,Reported vandalism incident near Electronic City junction.
+Cybercrime,Indiranagar,2026-04-06,08:08,12.967967,77.645738,Reported cybercrime incident near Indiranagar junction.
+Traffic Violation,Majestic,2025-08-30,11:06,12.975257,77.577883,Reported traffic violation incident near Majestic junction.
+Burglary,Jayanagar,2025-12-08,08:22,12.921284,77.588839,Reported burglary incident near Jayanagar junction.
+Assault,Jayanagar,2025-10-01,00:42,12.934279,77.568449,Reported assault incident near Jayanagar junction.
+Theft,Jayanagar,2025-11-07,09:26,12.927399,77.58603,Reported theft incident near Jayanagar junction.
+Cybercrime,Jayanagar,2026-04-20,23:32,12.936833,77.575078,Reported cybercrime incident near Jayanagar junction.
+Assault,Whitefield,2025-11-27,18:39,12.982284,77.763137,Reported assault incident near Whitefield junction.
