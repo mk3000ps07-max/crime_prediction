@@ -31,8 +31,7 @@ class CrimeRecord(models.Model):
         if not self.latitude or not self.longitude:
             try:
                 # Set up the backend satellite connection
-                geolocator = Nominatim(user_agent="bengaluru_crime_tracker")
-                
+                geolocator = Nominatim(user_agent="crime_dash_mani_production")
                 # Structure the query to guarantee local accuracy
                 search_query = f"{self.location}, Bengaluru, Karnataka, India"
                 geo_location = geolocator.geocode(search_query)
