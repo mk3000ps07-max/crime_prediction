@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-o8&oypuuyc38$i89=duo@36jiidkzwd+b+*i8r=qt-p@!t-c3^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*'] 
+ALLOWED_HOSTS = ['*']  
+CSRF_TRUSTED_ORIGINS = ['https://crime-prediction-8dcj.onrender.com']
 
 
 # Application definition
