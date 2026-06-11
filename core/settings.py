@@ -26,10 +26,21 @@ SECRET_KEY = 'django-insecure-o8&oypuuyc38$i89=duo@36jiidkzwd+b+*i8r=qt-p@!t-c3^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']  
-CSRF_TRUSTED_ORIGINS = ['https://crime-prediction-8dcj.onrender.com']
+ALLOWED_HOSTS = ['crime-prediction-8dcj.onrender.com', '*'] 
 
+# 1. Trust the Render Domain (with a wildcard fallback just in case)
+CSRF_TRUSTED_ORIGINS = [
+    'https://crime-prediction-8dcj.onrender.com',
+    'https://*.onrender.com'
+]
+
+# 2. Tell Django it is safely behind Render's HTTPS proxy
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+SECURE_SSL_REDIRECT = True
+
+# 3. Force security cookies to be HTTPS strictly
+SESSION_COOKIE_SECURE = True
+CSRF_COOKIE_SECURE = True
 
 
 # Application definition
