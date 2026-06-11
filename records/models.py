@@ -1,6 +1,6 @@
 from django.db import models
 import datetime
-from geopy.geocoders import Nominatim  # Make sure to run 'pip install geopy' inside venv
+from geopy.geocoders import ArcGIS  # Swapped to ArcGIS to bypass Render IP blocks
 
 class CrimeRecord(models.Model):
     CRIME_TYPES = [
@@ -30,8 +30,9 @@ class CrimeRecord(models.Model):
         """
         if not self.latitude or not self.longitude:
             try:
-                # Set up the backend satellite connection
-                geolocator = Nominatim(user_agent="crime_dash_mani_production")
+                # Set up the backend satellite connection using ArcGIS
+                geolocator = ArcGIS()
+                
                 # Structure the query to guarantee local accuracy
                 search_query = f"{self.location}, Bengaluru, Karnataka, India"
                 geo_location = geolocator.geocode(search_query)
