@@ -47,3 +47,16 @@ class CrimeRecord(models.Model):
 
         # Execute the original Django saving process with the newly appended data
         super().save(*args, **kwargs)
+
+# ==========================================
+# NEW: DEDICATED LIVE EMERGENCY TABLE
+# ==========================================
+class SOSEmergency(models.Model):
+    session_id = models.CharField(max_length=100, unique=True)
+    timestamp = models.DateTimeField(auto_now_add=True)
+    location = models.CharField(max_length=255, default="Live Tracking in Progress...")
+    video_evidence = models.FileField(upload_to='sos_evidence/', null=True, blank=True)
+    is_resolved = models.BooleanField(default=False) # Lets the admin mark it as handled
+
+    def __str__(self):
+        return f"🚨 URGENT SOS at {self.timestamp.strftime('%Y-%m-%d %H:%M:%S')}"
